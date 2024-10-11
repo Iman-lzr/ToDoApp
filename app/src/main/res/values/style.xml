@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="SmallHintTextAppearance" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">12sp</item> <!-- Taille du texte de l'indice -->
+        <item name="android:textColorHint">@android:color/darker_gray</item> <!-- Couleur de l'indice -->
+    </style>
+</resources>

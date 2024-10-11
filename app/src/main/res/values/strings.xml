@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">ToDoApp</string>
+    <string name="signIn">SignIn</string>
+    <string name="signUp">SignUp</string>
+    <string name="signU">SigUp</string>
+    <string name="signI">SignIn</string>
+
+    <string name="intro1">SignIn and Join US</string>
+    <string name="intro2">SignUp and Join Us </string>
+    <string name="username">Username </string>
+    <string name="forgotPass">Forgot Password?  </string>
+    <string name="fb">Facebook  </string>
+    <string name="google">google </string>
+    <string name="Don">Don\'t have an account? </string>
+
+    <string name="email">email </string>
+
+
+    <string name="or">Or  </string>
+    <string name="password">Password </string>
+    <string name="intro">Take control of your life with our TodoList app stay organized and productive every day!</string>
+
+</resources>
