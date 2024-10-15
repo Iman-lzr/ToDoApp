@@ -4,6 +4,7 @@
     <string name="signUp">SignUp</string>
     <string name="signU">SigUp</string>
     <string name="signI">SignIn</string>
+    <string name="sign">SingUp and Enjoy</string>
 
     <string name="intro1">SignIn and Join US</string>
     <string name="intro2">SignUp and Join Us </string>
@@ -13,7 +14,7 @@
     <string name="google">google </string>
     <string name="Don">Don\'t have an account? </string>
 
-    <string name="email">email </string>
+    <string name="email">Email </string>
 
 
     <string name="or">Or  </string>
